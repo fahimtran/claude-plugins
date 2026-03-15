@@ -1,12 +1,15 @@
 {
-  "name": "claude-plugins",
+  "name": "fahimtran-plugins",
   "owner": {
     "name": "fahimtran"
   },
   "plugins": [
     {
-      "name": "claude-plugins",
-      "source": ".",
+      "name": "fahimtran-plugins",
+      "source": {
+        "source": "github",
+        "repo": "fahimtran/claude-plugins"
+      },
       "description": "Global agents and orchestrator configuration for Claude Code"
     }
   ]
