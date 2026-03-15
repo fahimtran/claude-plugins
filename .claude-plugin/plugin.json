@@ -1,6 +1,6 @@
 {
   "name": "fahimtran-plugins",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Global agents and orchestrator configuration for Claude Code",
   "license": "UNLICENSED"
 }
