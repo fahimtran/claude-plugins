@@ -1,0 +1,13 @@
+{
+  "name": "claude-plugins",
+  "owner": {
+    "name": "fahimtran"
+  },
+  "plugins": [
+    {
+      "name": "claude-plugins",
+      "source": ".",
+      "description": "Global agents and orchestrator configuration for Claude Code"
+    }
+  ]
+}
