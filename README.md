@@ -15,7 +15,7 @@ claude --plugin-dir ./claude-plugins
 Requires a marketplace. See [Plugin marketplaces](https://code.claude.com/docs/en/plugin-marketplaces) to self-host one, then:
 
 ```bash
-claude plugin install claude-plugins@your-marketplace
+claude plugin install plugins@fahimtran
 ```
 
 ### Reload after changes

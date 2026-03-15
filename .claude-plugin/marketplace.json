@@ -1,11 +1,11 @@
 {
-  "name": "fahimtran-plugins",
+  "name": "fahimtran",
   "owner": {
     "name": "fahimtran"
   },
   "plugins": [
     {
-      "name": "fahimtran-plugins",
+      "name": "plugins",
       "source": {
         "source": "github",
         "repo": "fahimtran/claude-plugins"
