@@ -1,0 +1,12 @@
+{
+  "name": "claude-plugins",
+  "version": "1.0.0",
+  "description": "Personal Claude Code plugin — 14 specialized agents with an orchestrator-first workflow",
+  "license": "UNLICENSED",
+  "private": true,
+  "keywords": [
+    "claude",
+    "claude-code",
+    "agents"
+  ]
+}

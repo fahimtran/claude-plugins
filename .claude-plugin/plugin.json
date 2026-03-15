@@ -1,0 +1,6 @@
+{
+  "name": "claude-plugins",
+  "version": "1.0.0",
+  "description": "Global agents and orchestrator configuration for Claude Code",
+  "license": "UNLICENSED"
+}
